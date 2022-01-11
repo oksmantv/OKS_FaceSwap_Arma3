@@ -1,5 +1,7 @@
 /*
-
+	CREATED BY OKSMANTV @ YOUTUBE
+	Check out my channel for more scripts and editing tutorials
+	
 	_null = [east,"african"] execVM "OKS_FaceSwap.sqf";
 	[civilian_1,"african"] execVM "Scripts\OKS_Ambience\OKS_FaceSwap.sqf";
 
